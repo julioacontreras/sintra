@@ -10,3 +10,5 @@ Is a project Open Source to Create Micro Services
 * [Formulary Service](https://github.com/julioacontreras/formulary-service)
 * [Media Service](https://github.com/julioacontreras/media-service)
 * [Payment Service](https://github.com/julioacontreras/payment-service)
+* [Mailing Service](https://github.com/julioacontreras/mailing-service)
+
