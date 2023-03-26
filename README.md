@@ -6,12 +6,11 @@ Is a open source project compose the services to create a scalable application w
 
 In a world with constants changing this project come to give a possiblity to create MVP (Minimal viable product) in a easy way
 
-**Beneficts**
+**Each service is **
 
-* Select the services you need
-* Extend services 
-* Each service is indepedent
-* Scalable services 
+* Extensible
+* Indepedent
+* Scalable 
 
 ## 
 
