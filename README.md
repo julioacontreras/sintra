@@ -24,3 +24,6 @@ In a world with constants changing this project come to give a possiblity to cre
 * [Payment Service](https://github.com/julioacontreras/payment-service)
 * [Mailing Service](https://github.com/julioacontreras/mailing-service)
 
+## Donations
+
+bc1q9t2xjslvtdstse5pccuj0agg79m402z3z64387
