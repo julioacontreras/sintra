@@ -6,7 +6,7 @@ Is a open source project compose the services to create a scalable application w
 
 In a world with constants changing this project come to give a possiblity to create MVP (Minimal viable product) in a easy way
 
-**Each service is **
+**Each service is**
 
 * Extensible
 * Indepedent
