@@ -1,4 +1,4 @@
-# Sintra
+# Sintra Project
 
 Is a open source project collection service to create a scalable application.
 
