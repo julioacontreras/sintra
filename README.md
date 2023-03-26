@@ -1,10 +1,13 @@
 # Sintra Project
 
-Is a open source project compose the services to create a scalable application.
+Is a open source project compose the services to create a scalable application write in typescript.
 
 ## Why?
 
 Can choose the services you need to create applications.
+
+* Each service is indepedent
+* The application service is no-code
 
 ## 
 
