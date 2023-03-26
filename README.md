@@ -1,6 +1,6 @@
 # Sintra Project
 
-Is a open source project collection service to create a scalable application.
+Is a open source project compose the collection services to create a scalable application.
 
 ## Why?
 
