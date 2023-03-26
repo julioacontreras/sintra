@@ -4,7 +4,7 @@ Is a open source project collection service to create a scalable application.
 
 ## Why?
 
-Is a collection micro services to create a scalable application service.
+Can create choose the services you need to create your application.
 
 ## 
 
