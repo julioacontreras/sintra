@@ -1,6 +1,12 @@
 # Sintra
 
-Is a project Open Source to Create Micro Services
+Is a open source project collection service to create a scalable application.
+
+## Why?
+
+Is a collection micro services to create a scalable application service.
+
+## 
 
 ## Micro services
 
