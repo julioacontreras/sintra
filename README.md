@@ -11,7 +11,7 @@ In a world with constants changing this project come to give a possiblity to cre
 * Select the services you need
 * Extend services 
 * Each service is indepedent
-* Made to scalable projects 
+* Scalable services 
 
 ## 
 
