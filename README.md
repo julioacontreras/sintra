@@ -4,7 +4,9 @@ Is a open source project compose the services to create a scalable application w
 
 ## Why?
 
-In a world with constants changing the project help to create a MVP (Minimal viable product)
+In a world with constants changing this project come to give a possiblity to create MVP (Minimal viable product) in a easy way
+
+**Beneficts**
 
 * Select the services you need
 * Extend services 
