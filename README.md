@@ -7,7 +7,7 @@ Is a open source project compose the services to create a scalable application w
 Can choose the services you need to create applications.
 
 * Each service is indepedent
-* The application service is no-code
+* Made to scalable projects 
 
 ## 
 
