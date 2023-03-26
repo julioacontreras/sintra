@@ -27,3 +27,7 @@ In a world with constants changing this project come to give a possiblity to cre
 ## Donations
 
 bc1q9t2xjslvtdstse5pccuj0agg79m402z3z64387
+
+## Contribution
+
+Feel free to open a pull request for small fixes and changes. For bigger changes and new plugins, please open an issue first to prevent duplicated work and to have the relevant discussions first.
