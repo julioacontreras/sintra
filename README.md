@@ -1,6 +1,6 @@
 # Sintra Project
 
-Is a open source project compose the services to create a scalable application
+Is a open source project to create a scalable application
 
 ## Why?
 
