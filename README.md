@@ -4,7 +4,7 @@ Is a open source project compose the services to create a scalable application.
 
 ## Why?
 
-Can choose the services you need to create your application.
+Can choose the services you need to create applications.
 
 ## 
 
